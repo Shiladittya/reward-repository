@@ -1,0 +1,18 @@
+{
+  "sourceId":"1",
+  "sourceName": "",
+  "customIdentifier": "1112234345",
+   "transactionDetail": {
+    "txnId": 3445,
+    "eventId": 5,
+    "transactionDate": "2019-06-13"
+  },
+  "rewardDetail": [
+    {
+      
+      "installmentDetailType": 1,
+      "installmentDetailValue": "400"
+      
+    }
+  ]
+}
